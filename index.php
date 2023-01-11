@@ -5,26 +5,6 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 
-
-
-<?php
-$srcurl = "includes/";
-$basesurl = "assets/";
-?>
-
-
-
-
-<?php
-$style = $_SERVER['HTTP_HOST']; 
-$style = $srcurl."style.php"; 
-include($style); 
-
-$urhere = "homepage";
-?>
-
-
-
 </head>
 <body class="hompg consult-page">
 

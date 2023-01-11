@@ -42,7 +42,7 @@ include($header);
 		<div class="row">
 			<div class="col-md-12">
 				<div class="txtwrp">
-					<p><a href="javascript:;">ARUNANSUPATTANAYAK </a>- CLOUD MIGRATION</p>
+					<p><a href="javascript:;">TIPSORA </a>- CLOUD MIGRATION</p>
 					<h2>CLOUD MIGRATION</h2>
 				</div>
 			</div>

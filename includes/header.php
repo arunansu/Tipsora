@@ -2,7 +2,7 @@
 
 
   if ($_SERVER['HTTP_HOST'] == "localhost") {
-      $folder_name = ""; $path = 'https://localhost/bilal_project/'.$folder_name;
+      $folder_name = ""; $path = 'https://localhost/Tipsora/'.$folder_name;
   } else {
     $folder_name = ""; $path = 'https://'.$_SERVER['HTTP_HOST'].''.$folder_name.'/';
   }
@@ -115,22 +115,22 @@
         <div class="iconwrp">
             <ul>
               <li>
-                <a href="javascript:;">
+                <a href="https://www.facebook.com/tipsorallc" target="_blank" rel="noopener">
                 <i class="fa-brands fa-facebook-f"></i>
                 </a>
               </li>
               <li>
-                <a href="javascript:;">
+                <a href="https://www.instagram.com/tipsora" target="_blank" rel="noopener">
                 <i class="fa-brands fa-instagram insta-icon"></i>
                 </a>
               </li>
               <li>
-                <a href="javascript:;">
+                <a href="https://twitter.com/TipsoraLLC" target="_blank" rel="noopener">
                 <i class="fa-brands fa-twitter twitter-icon"></i>
                 </a>
               </li>
               <li>
-                <a href="javascript:;">
+                <a href="https://www.linkedin.com/company/tipsorallc" target="_blank" rel="noopener">
                 <i class="fa-brands fa-linkedin link-icon"></i>
                 </a>
               </li>
